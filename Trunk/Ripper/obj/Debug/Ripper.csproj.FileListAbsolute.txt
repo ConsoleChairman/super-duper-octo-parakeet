@@ -1,0 +1,13 @@
+F:\source\Workspaces\Site Ripper\Trunk\Ripper\bin\Debug\Ripper.exe.config
+F:\source\Workspaces\Site Ripper\Trunk\Ripper\bin\Debug\Ripper.exe
+F:\source\Workspaces\Site Ripper\Trunk\Ripper\bin\Debug\Ripper.pdb
+F:\source\Workspaces\Site Ripper\Trunk\Ripper\bin\Debug\CommandLine.dll
+F:\source\Workspaces\Site Ripper\Trunk\Ripper\bin\Debug\HtmlAgilityPack.dll
+F:\source\Workspaces\Site Ripper\Trunk\Ripper\bin\Debug\CommandLine.xml
+F:\source\Workspaces\Site Ripper\Trunk\Ripper\bin\Debug\HtmlAgilityPack.pdb
+F:\source\Workspaces\Site Ripper\Trunk\Ripper\bin\Debug\HtmlAgilityPack.xml
+F:\source\Workspaces\Site Ripper\Trunk\Ripper\obj\Debug\Ripper.csprojAssemblyReference.cache
+F:\source\Workspaces\Site Ripper\Trunk\Ripper\obj\Debug\Ripper.csproj.CoreCompileInputs.cache
+F:\source\Workspaces\Site Ripper\Trunk\Ripper\obj\Debug\Ripper.csproj.CopyComplete
+F:\source\Workspaces\Site Ripper\Trunk\Ripper\obj\Debug\Ripper.exe
+F:\source\Workspaces\Site Ripper\Trunk\Ripper\obj\Debug\Ripper.pdb
